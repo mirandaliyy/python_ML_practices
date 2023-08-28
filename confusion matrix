@@ -1,0 +1,3 @@
+import numpy
+actual = numpy.random.binomial(1, 0.9, size = 1000)
+predicted = numpy.random.binomial(1, 0.9, size = 1000)
